@@ -1,1 +1,1 @@
-Partyk Baranik Grupa4
+Partyk Baranik
