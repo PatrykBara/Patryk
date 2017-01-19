@@ -1,4 +1,3 @@
-// Funkcja porz¹dkuj¹ca malej¹co tablicê
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
